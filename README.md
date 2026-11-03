@@ -36,10 +36,10 @@ When you look inside a DNS zone file, you will see some strange variables. Here 
 
 ---
 
----
+
 ## Architecture Diagram
 ![DNS Master-Slave Lab Architecture](dns-lab-architecture.png)
----
+
 
 ---
 
